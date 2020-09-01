@@ -1,6 +1,6 @@
 # Mage2 Module Lime Rahmat
 
-    ``lime/module-rahmat``
+    ``lime/module-rahmat-test``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)

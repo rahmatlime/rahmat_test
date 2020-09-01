@@ -4,14 +4,14 @@
 		<tab id="lime" sortOrder="999" translate="label">
 			<label>Lime</label>
 		</tab>
-		<section id="test" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
+		<section id="rahmat" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 			<label>Rahmat Test</label>
 			<tab>lime</tab>
 			<resource>Lime_Rahmat::config_lime_rahmat</resource>
 			<group id="general" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 				<label>General</label>
-				<field id="rahmat" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
-					<label>Rahmat</label>
+				<field id="value" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
+					<label>Value</label>
 					<comment>Test config</comment>
 				</field>
 			</group>

@@ -6,7 +6,7 @@
 				<resource id="Magento_Backend::stores">
 					<resource id="Magento_Backend::stores_settings">
 						<resource id="Magento_Config::config">
-							<resource id="Lime_Rahmat::config_lime_rahmat" title="test"/>
+							<resource id="Lime_Rahmat::config_lime_rahmat" title="rahmat"/>
 						</resource>
 					</resource>
 				</resource>
