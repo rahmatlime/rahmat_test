@@ -37,7 +37,7 @@
 
 ## Configuration
 
- - rahmat (test/lime/rahmat)
+ - rahmat (test/general/rahmat)
 
 
 ## Specifications

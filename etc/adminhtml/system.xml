@@ -5,11 +5,11 @@
 			<label>lime</label>
 		</tab>
 		<section id="test" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
-			<label>test</label>
+			<label>Rahmat Test</label>
 			<tab>lime</tab>
 			<resource>Lime_Rahmat::config_lime_rahmat</resource>
-			<group id="lime" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
-				<label>lime</label>
+			<group id="general" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
+				<label>General</label>
 				<field id="rahmat" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
 					<label>rahmat</label>
 					<comment/>
