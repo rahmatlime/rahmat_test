@@ -5,5 +5,5 @@
  */
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Rahmat_Test', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Lime_Rahmat', __DIR__);
 

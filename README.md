@@ -1,6 +1,6 @@
-# Mage2 Module Rahmat Test
+# Mage2 Module Lime Rahmat
 
-    ``rahmat/module-test``
+    ``lime/module-rahmat``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
@@ -17,8 +17,8 @@
 
 ### Type 1: Zip file
 
- - Unzip the zip file in `app/code/Rahmat`
- - Enable the module by running `php bin/magento module:enable Rahmat_Test`
+ - Unzip the zip file in `app/code/Lime`
+ - Enable the module by running `php bin/magento module:enable Lime_Rahmat`
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
@@ -29,15 +29,15 @@
     - public repository `packagist.org`
     - public github repository as vcs
  - Add the composer repository to the configuration by running `composer config repositories.repo.magento.com composer https://repo.magento.com/`
- - Install the module composer by running `composer require rahmat/module-test`
- - enable the module by running `php bin/magento module:enable Rahmat_Test`
+ - Install the module composer by running `composer require lime/module-rahmat`
+ - enable the module by running `php bin/magento module:enable Lime_Rahmat`
  - apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
 
 ## Configuration
 
- - data (test/lime/data)
+ - rahmat (test/lime/rahmat)
 
 
 ## Specifications

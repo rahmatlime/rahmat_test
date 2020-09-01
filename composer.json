@@ -1,5 +1,5 @@
 {
-    "name": "rahmat/module-test",
+    "name": "lime/module-rahmat-test",
     "description": "",
     "type": "magento2-module",
     "license": "OSL-3.0",
@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Rahmat\\Test\\": ""
+            "Lime\\Rahmat\\": ""
         }
     }
 }

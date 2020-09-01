@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
 	<system>
-		<tab id="rahmat" sortOrder="999" translate="label">
-			<label>rahmat</label>
+		<tab id="lime" sortOrder="999" translate="label">
+			<label>lime</label>
 		</tab>
 		<section id="test" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 			<label>test</label>
-			<tab>rahmat</tab>
-			<resource>Rahmat_Test::config_rahmat_test</resource>
+			<tab>lime</tab>
+			<resource>Lime_Rahmat::config_lime_rahmat</resource>
 			<group id="lime" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 				<label>lime</label>
-				<field id="data" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
-					<label>data</label>
+				<field id="rahmat" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
+					<label>rahmat</label>
 					<comment/>
 				</field>
 			</group>
