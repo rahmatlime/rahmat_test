@@ -29,7 +29,7 @@
     - public repository `packagist.org`
     - public github repository as vcs
  - Add the composer repository to the configuration by running `composer config repositories.repo.magento.com composer https://repo.magento.com/`
- - Install the module composer by running `composer require lime/module-rahmat`
+ - Install the module composer by running `composer require lime/module-rahmat-test`
  - enable the module by running `php bin/magento module:enable Lime_Rahmat`
  - apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
